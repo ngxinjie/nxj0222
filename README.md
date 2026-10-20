@@ -1,6 +1,6 @@
 # Hi there, I'm Xin Jie 👋
 
-<img src="scst1133/pic.jpg" width="200" align="right" alt="Profile Picture" style="border-radius: 10px; margin-left: 20px;">pic.jpg
+<img src="spic.jpg" width="200" align="right" alt="Profile Picture" style="border-radius: 10px; margin-left: 20px;">
 
 
 🎓 **1st Year Data Engineering Student** @ Universiti Teknologi Malaysia (UTM)  
