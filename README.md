@@ -13,6 +13,7 @@
   - **Tools:** Git, GitHub, Linux / Command Line
 - 🎯 **Current Focus:** Deepening my knowledge in C++ data structures and low-level system design before expanding into big data tools.
 - 📬 **Reach Me:** https://www.linkedin.com/in/xin-jie-ng22/
+- 📧 **Email:** ngxinjie@graduate.utm.my
 
 ---
 
