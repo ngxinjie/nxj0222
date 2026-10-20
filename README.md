@@ -25,9 +25,10 @@
 </p>
 
 ### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngxinjie&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngxinjie&layout=compact)
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ngxinjie&show_icons=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngxinjie&layout=compact" />
+</p>
 
 ---
 
