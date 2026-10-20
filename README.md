@@ -15,8 +15,7 @@
   - **Languages:** C++ (Primary), learning Python & SQL
   - **Tools:** Git, GitHub, Linux / Command Line
 - 🎯 **Current Focus:** Deepening my knowledge in C++ data structures and low-level system design before expanding into big data tools.
-- 📬 **Reach Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xin-jie-ng22/)
-<a href="mailto:ngxinjie@graduate.utm.my" target="_blank">
+- 📬 **Reach Me:** [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/xin-jie-ng22/)<a href="mailto:ngxinjie@graduate.utm.my" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 12px; height: 28px;" alt="Gmail" />
 </a>
 
